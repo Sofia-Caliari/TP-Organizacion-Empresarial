@@ -1,4 +1,3 @@
-
 # TP Organización Empresarial - Análisis de Ventas 2024
 
 ## Integrante
@@ -45,3 +44,8 @@ Se realizó una validación final del proyecto verificando:
 - documentación del proyecto mediante README.md
 
 El proyecto fue validado exitosamente utilizando Google Colab y GitHub.
+
+## Flujo de trabajo colaborativo
+
+El proyecto utilizó Git, GitHub y Jira para garantizar trazabilidad, organización y control de versiones durante el desarrollo.
+Tambien se usó ayuda de la IA ya que el tp pide trabajo de a 3, en este caso una sola persona hizo los tres proyectos, por lo tanto, usamos la IA como una persona mas. 
