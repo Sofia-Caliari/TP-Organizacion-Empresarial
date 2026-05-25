@@ -1,1 +1,34 @@
-# TP-Organizacion-Empresarial
+
+# TP Organización Empresarial - Análisis de Ventas 2024
+
+## Integrante
+- Sofia Caliari - C3
+
+## Escenario elegido
+Escenario B - Análisis de datos de ventas utilizando Python, GitHub y Jira.
+
+## Descripción del proyecto
+Este proyecto fue desarrollado como parte del Trabajo Práctico de Gestión Colaborativa y Control de Versiones.
+
+El objetivo principal fue realizar un análisis simple de datos comerciales utilizando un dataset de ventas en formato CSV propuesto en el pdf, aplicando herramientas de trabajo colaborativo y control de versiones.
+
+Durante el desarrollo se utilizaron:
+- Git y GitHub.
+- Jira con metodología Scrum.
+- Python para el análisis de datos.
+- Google Colab como entorno de desarrollo.
+
+## Dataset utilizado
+Se utilizó el dataset:
+`sales_sample_2024.csv`
+
+El archivo contiene registros de ventas simuladas correspondientes al año 2024.
+
+## Estructura del repositorio
+
+```txt
+datos/
+scripts/
+resultados/
+README.md
+.gitignore
