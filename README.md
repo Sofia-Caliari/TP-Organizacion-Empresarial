@@ -32,3 +32,16 @@ scripts/
 resultados/
 README.md
 .gitignore
+
+## Validación y QA final
+
+Se realizó una validación final del proyecto verificando:
+
+- correcta estructura del repositorio.
+- ejecución funcional del script Python.
+- correcta lectura del dataset CSV.
+- generación del gráfico de resultados.
+- funcionamiento de Git y GitHub.
+- documentación del proyecto mediante README.md
+
+El proyecto fue validado exitosamente utilizando Google Colab y GitHub.
